@@ -23,6 +23,7 @@
 - **JavaScript:** VanillaJS, React, jQuery, jQuery UI, Ajax
 - **OOP, Design Patterns, SOLID, DDD**
 - **Базы данных:** MySQL, PostgreSQL, Oracle, LiteSQL, NoSQL
+- **Очереди:** Rabbitmq, Kafka
 - **Интеграция с API:** Яндекс Метрика, Яндекс Диск, взаимодействие с банковскими системами, Google AdWords, SE Ranking
 - **Интеграция web-приложений с системой SAP**
 - **Разработка для мобильных платформ:** React, Java, JavaScript, PhoneGap
@@ -39,7 +40,7 @@
 ### Фриланс
 *2023 - 2025*  
 - Разработка проектов на Symfony
-- Разработка сервисов на Slim
+- Разработка сервисов для микросервисной архитектуры на Slim
 
 ### ARMTEK
 *2019 - 2023*  
